@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **making a Google Classroom Clone.**
 
-- 🌱 I’m currently learning **GoLang, GIN framework.**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **backend projects working with node and express.**
 
