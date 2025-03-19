@@ -1,21 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amaan Syed</h1>
-<h3 align="center">A passionate full-stack developer from Mumbai, India.</h3>
+<h3 align="center">A passionate backend developer from Mumbai, India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaansyed2004&label=Profile%20views&color=1c262c&style=flat" alt="amaansyed2004" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amaansyed2004&label=Profile%20views&color=1c262c&style=flat" alt="amaansyed2004" /> </p>
 
-- 🔭 I’m currently working on **making a Google Classroom Clone.**
 
-- 🌱 I’m currently learning **Spring Boot**
-
-- 👯 I’m looking to collaborate on **backend projects working with node and express.**
-
-- 🤝 I’m looking for help with **projects with GoLang.**
-
-- 💬 Ask me about **MERN**
-
-- 📫 Email me! **amaansyed2004@gmail.com**
-
-- 📄 Know about my <a href="https://drive.google.com/file/d/1Gg__AkPkNhdgQEY6d8QT3fIfOwoGzFU_/view?usp=sharing">experiences</a> 
+📄 Know about my <a href="https://drive.google.com/file/d/1Gg__AkPkNhdgQEY6d8QT3fIfOwoGzFU_/view?usp=sharing">experiences</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
