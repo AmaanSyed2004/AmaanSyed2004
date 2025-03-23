@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amaansyed2004&label=Profile%20views&color=1c262c&style=flat" alt="amaansyed2004" /> </p>
 
 
-📄 Know about my <a href="https://drive.google.com/file/d/1Gg__AkPkNhdgQEY6d8QT3fIfOwoGzFU_/view?usp=sharing">experiences</a> 
+📄 Know about my <a href="https://drive.google.com/file/d/1CGK2tHqpPcNzS7EaWxtzW2Kv4JesFQJC/view?usp=sharing">experiences</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
